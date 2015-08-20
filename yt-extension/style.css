@@ -1,0 +1,14 @@
+h3 {
+	color: #555;
+	font-size: 12px;
+	font-family: Arial;
+}
+button {
+	background: red;
+	cursor: pointer;
+	border-radius: 0;
+	border: none;
+	width: 100px;
+	color: white;
+	margin: 2px 0;
+}
