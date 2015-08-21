@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "YouTube Extend Plugin",
-  "description": "Loop and download you tube videos.",
+  "description": "Loop and download youtube videos. Using listenonrepeat.com and youtube-mp3.org",
   "version": "1.0",
 
   "browser_action": {
@@ -12,5 +12,9 @@
   "permissions": [
    "activeTab",
     "http://*/*"
-   ]
+   ],
+  "icons": { 
+    "48": "icon48.png",
+    "128": "icon128.png" 
+  }
 }
