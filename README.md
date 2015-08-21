@@ -1,7 +1,6 @@
 # chrome-extensions
-Extensions for Chrome
+yt-extension
 
-yt-extension:
 loops and downloads and converts videos using 'listenonrepeat' and 'youtube to mp3'
 
 Install
